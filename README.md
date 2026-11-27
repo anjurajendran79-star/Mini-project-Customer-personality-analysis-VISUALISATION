@@ -1,4 +1,4 @@
- Mini-project-Customer-personality-analysis-VISUALISATION
+ MINI PROJECT-CUSTOMER PERSONALITY ANALYSIS-VISUALISATION
 *project analyzes a customer marketing dataset to understand customer behavior
 Tools
 *Bussiness intelligence-power bi
