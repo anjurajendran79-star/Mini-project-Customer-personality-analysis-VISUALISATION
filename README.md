@@ -1,13 +1,13 @@
  MINI PROJECT-CUSTOMER PERSONALITY ANALYSIS-VISUALISATION
-*project analyzes a customer marketing dataset to understand customer behavior
+* project analyzes a customer marketing dataset to understand customer behavior
 Tools
-*Bussiness intelligence-power bi
-*data cleaning excel and power query
-*DAX
-*customer personality analysis by visualisation
-*customer purchasing behavior by visualisation
-*Project conclusion by AI
-*AI Tools :AI decomposition tree& key influencers
+* Bussiness intelligence-power bi
+* data cleaning excel and power query
+* DAX
+* customer personality analysis by visualisation
+* customer purchasing behavior by visualisation
+* Project conclusion by AI
+* AI Tools :AI decomposition tree& key influencers
 <img width="452" height="60" alt="image" src="https://github.com/user-attachments/assets/ce98e7ec-3bcf-4287-9f4a-287e051545a6" />
 <img width="1182" height="70" alt="image" src="https://github.com/user-attachments/assets/1dc754dc-1e0d-4b6c-bb65-07683fceda29" />
 <img width="1220" height="676" alt="image" src="https://github.com/user-attachments/assets/776ad7ee-14e5-47dc-9762-71fd2cd56eb9" />
