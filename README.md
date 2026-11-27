@@ -2,10 +2,10 @@
 * project analyzes a customer marketing dataset to understand customer behavior
 Tools
 * Bussiness intelligence-power bi
-* data cleaning excel and power query
+* Data cleaning excel and power query
 * DAX
-* customer personality analysis by visualisation
-* customer purchasing behavior by visualisation
+* Customer personality analysis by visualisation
+* Customer purchasing behavior by visualisation
 * Project conclusion by AI
 * AI Tools :AI decomposition tree& key influencers
 <img width="452" height="60" alt="image" src="https://github.com/user-attachments/assets/ce98e7ec-3bcf-4287-9f4a-287e051545a6" />
