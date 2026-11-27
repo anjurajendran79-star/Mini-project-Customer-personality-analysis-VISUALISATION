@@ -1,5 +1,5 @@
 #  MINI PROJECT-CUSTOMER PERSONALITY ANALYSIS-VISUALISATION
-* project analyzes a customer marketing dataset to understand customer behavior
+* project analyzes a customer marketing dataset from kaggle to understand customer behavior
 Tools
 * Bussiness intelligence-power bi
 * Data cleaning excel and power query
@@ -13,3 +13,7 @@ Tools
 <img width="1220" height="676" alt="image" src="https://github.com/user-attachments/assets/776ad7ee-14e5-47dc-9762-71fd2cd56eb9" />
 <img width="1230" height="678" alt="image" src="https://github.com/user-attachments/assets/adb7bc0f-34ba-477f-8248-62780daa0f95" />
 <img width="1224" height="698" alt="image" src="https://github.com/user-attachments/assets/dd0a1f80-c093-43ef-8bda-cb84a7232aae" />
+## Key insight & Conclusion
+* Identified high spending customers
+* Analyzed top- performing product
+* Used power BI AI Visuals 
